@@ -1,2 +1,5 @@
-# Identification-of-phishing-URL-s
-Phishing URL Detection System developed using Python and Tkinter. The project identifies suspicious and legitimate websites based on URL patterns and domain analysis. It helps detect fake or harmful links using basic cybersecurity concepts. Designed with a simple user-friendly interface for safe browsing awareness.
+# Online project hub
+Online Project Hub is a modern web platform for exploring and managing project ideas.
+It provides an interactive and user-friendly interface for users.
+The platform supports domain-based project browsing and organization.
+It helps students and developers discover innovative technical projects easily.
